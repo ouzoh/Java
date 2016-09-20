@@ -17,3 +17,25 @@ public class Program
         }
     }
 }
+
+
+
+/*
+A switch statement can have an optional DEFAULT case. 
+The DEFAULT case can be used for performing a task when none of the cases is matched.
+
+For example:
+int day = 3;
+
+switch(day) {
+  case 6:
+    System.out.println("Saturday");
+    break;
+  case 7:
+    System.out.println("Sunday");
+    break;
+  default:
+    System.out.println("Weekday");
+}
+// Outputs "Weekday"
+*/
