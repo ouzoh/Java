@@ -9,3 +9,19 @@ public class Program
         }
     }
 }
+
+/*
+Syntax:
+if (condition) 
+{
+   //Executes when the condition is true
+}
+----
+Operators:
+< less than
+> greater than
+!= not equal to
+== equal to
+<= less than or equal to
+>= greater than or equal to
+*/
