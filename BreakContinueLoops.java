@@ -38,8 +38,7 @@ public class Program
 }
 
 /*
-The continue statement causes the loop to skip the remainder of its body and 
-then immediately retest its condition prior to reiterating
+The continue makes the loop skip to its next iteration
 
 similar to continue in fortran
 */
